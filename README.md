@@ -1,8 +1,7 @@
 # PingPong-Game
 
 # HOSTED LINK
-https://ashishranjan9ar.github.io/PingPong-Game/
-
+https://ping-pong-game-pi-rust.vercel.app/
 # Introduction:
 Welcome to our Ping Pong game! Get ready to experience the classic arcade fun right in your browser. Our game, built using HTML, CSS, and JavaScript, brings the excitement of the popular Ping Pong game to your screen, allowing you to test your reflexes and compete against an AI opponent.
 
